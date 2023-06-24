@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Varun Mangalick</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Varun Mangalick</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jan 2022 09:57:30 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Origami design: simple sauropod</title>
+      <link>http://example.org/hobbies/origami/post-3-dino/</link>
+      <pubDate>Tue, 25 Jan 2022 09:57:30 -0400</pubDate>
+      
+      <guid>http://example.org/hobbies/origami/post-3-dino/</guid>
+      <description>My second origami design - the simple sauropod (pics at more angles on the insta):
+If you want to fold this, the crease pattern is below.
+Here, like with the lizard, I started with a tree diagram and did circle packing through box pleating. In this case, I found I wasn&amp;rsquo;t quite able to pack box pleating squares sufficiently, so I used a technique called the Pythagorean stretch which is what creates the strange polygonal areas in the pattern.</description>
+    </item>
+    
+    <item>
+      <title>Origami design: baby sea turtle</title>
+      <link>http://example.org/hobbies/origami/post-2-turtle/</link>
+      <pubDate>Sat, 06 Nov 2021 15:46:49 -0400</pubDate>
+      
+      <guid>http://example.org/hobbies/origami/post-2-turtle/</guid>
+      <description>My second origami design - the baby sea turtle:
+If you want to fold this, the crease pattern is below.
+In this case, instead of starting with circle packing, I started by making the pleats I eventually wanted to end up on the back of the shell, then just played around until I felt the head and legs looked about right. For help folding, I made an album with pictures at various stages.</description>
+    </item>
+    
+    <item>
+      <title>Origami design: simple lizard</title>
+      <link>http://example.org/hobbies/origami/post-1-lizard/</link>
+      <pubDate>Fri, 22 Oct 2021 20:30:46 -0400</pubDate>
+      
+      <guid>http://example.org/hobbies/origami/post-1-lizard/</guid>
+      <description>My first origami design - the simple lizard:
+If you want to fold this, the crease pattern is below.
+Most origami design starts with creating a tree structure representing the rough shape of your final figure. Then, you covert terminal nodes in the tree into circles to pack into the square, with each circle corresponding to a spike as long as the circle&amp;rsquo;s radius in the final design. In this case, the final model looks basically the same as the tree diagram, so we can jump right to the circle packing:</description>
+    </item>
+    
+    <item>
+      <title>The big dinosaur painting</title>
+      <link>http://example.org/hobbies/painting/post-2-big-dino/</link>
+      <pubDate>Wed, 22 Aug 2018 21:19:59 -0400</pubDate>
+      
+      <guid>http://example.org/hobbies/painting/post-2-big-dino/</guid>
+      <description>This is a variety of dino paintings</description>
+    </item>
+    
+    <item>
+      <title>Dinosaurs!</title>
+      <link>http://example.org/hobbies/painting/post-1-dinos/</link>
+      <pubDate>Mon, 22 Aug 2016 21:19:59 -0400</pubDate>
+      
+      <guid>http://example.org/hobbies/painting/post-1-dinos/</guid>
+      <description>This is a variety of dino paintings</description>
+    </item>
+    
+  </channel>
+</rss>
