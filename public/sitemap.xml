@@ -3,10 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2022-01-25T09:57:30-04:00</lastmod>
+    <lastmod>2023-01-24T20:16:25-04:00</lastmod>
   </url><url>
     <loc>http://example.org/hobbies/</loc>
-    <lastmod>2022-01-25T09:57:30-04:00</lastmod>
+    <lastmod>2023-01-24T20:16:25-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/hobbies/painting/</loc>
+    <lastmod>2023-01-24T20:16:25-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/hobbies/painting/post-3-paint-wall/</loc>
+    <lastmod>2023-01-24T20:16:25-04:00</lastmod>
   </url><url>
     <loc>http://example.org/hobbies/origami/</loc>
     <lastmod>2022-01-25T09:57:30-04:00</lastmod>
@@ -20,11 +26,8 @@
     <loc>http://example.org/hobbies/origami/post-1-lizard/</loc>
     <lastmod>2021-10-22T20:30:46-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/hobbies/painting/</loc>
-    <lastmod>2018-08-22T21:19:59-04:00</lastmod>
-  </url><url>
     <loc>http://example.org/hobbies/painting/post-2-big-dino/</loc>
-    <lastmod>2018-08-22T21:19:59-04:00</lastmod>
+    <lastmod>2018-05-25T11:23:01-04:00</lastmod>
   </url><url>
     <loc>http://example.org/hobbies/painting/post-1-dinos/</loc>
     <lastmod>2016-08-22T21:19:59-04:00</lastmod>

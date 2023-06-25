@@ -10,4 +10,8 @@ I revisited this hobby during the covid lockdown, and ended up being sucked into
 
 ![Screenshot of origami instagram](/origami/insta.png)
 
+For anyone wondering how I got those nice white backdrops on my images, here's the setup (using a white poster board sheet):
+
+![Origami photo backdrop setup](/origami/origami_photo.jpg)
+
 I also experimented a bit with origami design, which involves a surprising amount of geometry. I read through [Robert Lang's book on the subject](https://langorigami.com/publication/origami-design-secrets-2nd-edition/) and created three very simple box pleated designs (using [Box Pleating Studio](https://bpstudio.abstreamace.com/)). Details on each present in posts below.
