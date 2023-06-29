@@ -1,12 +1,12 @@
 ---
 title: "Painting: a series of dinosaurs"
 date: 2016-08-22T21:19:59-04:00
-draft: false
+cover:
+  image: /painting/dinos.jpg
+  alt: "Six paintings of dinos"
 ---
 
 During my college freshman summer when I was doing my first internship. I bought paints to have something to do after work, as this was the first time in my life I didn't have homework. This summer, I painted several simple dinosaur paintings!
-
-![Six paintings of dinos](/painting/dinos.jpg)
 
 So why dinosaurs? As a kid, I was obsessed with dinosaurs, and this aspect is something most people still associate with me. I didn't necessarily feel like I HAD to only paint dinosaurs, but they felt like a reasonable default subject to use to practice different styles. The first painting I did was a somewhat abstract one, where my primary intent was to just practice painting clean lines, but I do like how it turned out.
 

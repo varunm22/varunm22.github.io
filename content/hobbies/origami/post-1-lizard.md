@@ -1,12 +1,11 @@
 ---
 title: "Origami design: simple lizard"
 date: 2021-10-22T20:30:46-04:00
-draft: false
+cover:
+  image: /origami/lizard.jpg
+  alt: "My first origami design - the simple lizard"
+  caption: "My first origami design - the simple lizard"
 ---
-
-My first origami design - the simple lizard:
-
-![Origami lizard](/origami/lizard.jpg)
 
 If you want to fold this, the crease pattern is below.
 

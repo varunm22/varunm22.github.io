@@ -1,5 +1,8 @@
 ---
 title: "Origami"
+cover:
+  image: /origami/insta.png
+  hiddenInSingle: True
 ---
 
 This is a hobby I've been intereted in over two separate phases. I was first interested in early high school, during which I made a variety of simple models from Youtube videos, and more interestingly, experimented with folding a tiny crane using toothpicks instead of my fingers.

@@ -1,12 +1,12 @@
 ---
 title: "Painting: a dinosaur through the eye of Chuck Close"
 date: 2018-05-25T11:23:01-04:00
-draft: false
+cover:
+  image: /painting/big_dino.jpg
+  alt: "The big dinosaur painting"
 ---
 
 At the start of my college junior summer, I painted what is still probably my single favorite thing I've painted. I was staying with my aunt for a couple days before starting my internship, and I took the opportunity to paint with my artist cousin Sonika didi. She's absolutely fantastic and paints pieces for galleries while also working in art education. See her pieces [here](https://www.instagram.com/sonikart13/)!
-
-![One big painting of a dino](/painting/big_dino.jpg)
 
 We looked at a variety of modern artists to get style inspiration, and ended up settling on Chuck Close. We didn't feel we could quite capture the surprising level of realism he managed to achieve, but it would be fun to try painting with a diagonal grid texture anyways. I was very happy with how mine ended up turning out! I had lots of fun altering the shades of the individual cells on both the background and dinosaur to indicate the light source being present on the top right of the painting. Sonika didi's cat was also really cool!
 

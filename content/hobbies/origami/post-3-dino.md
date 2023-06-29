@@ -1,13 +1,11 @@
 ---
 title: "Origami design: simple sauropod"
 date: 2022-01-25T09:57:30-04:00
-draft: false
+cover:
+  image: /origami/dino.jpg
+  alt: "My first origami design - the simple sauropod"
+  caption: "My first origami design - the simple sauropod (pics at more angles on [the insta](https://www.instagram.com/varun_origami/))"
 ---
-
-My second origami design - the simple sauropod (pics at more angles on [the insta](https://www.instagram.com/varun_origami/)):
-
-![Origami dino](/origami/dino.jpg)
-
 If you want to fold this, the crease pattern is below.
 
 ![Origami dino crease pattern](/origami/dino_pattern.png)

@@ -1,12 +1,11 @@
 ---
 title: "Origami design: baby sea turtle"
 date: 2021-11-06T15:46:49-04:00
-draft: false
+cover:
+  image: /origami/turtle.jpg
+  alt: "My first origami design - the baby sea turtle"
+  caption: "My first origami design - the baby sea turtle"
 ---
-
-My second origami design - the baby sea turtle:
-
-![Origami turtle](/origami/turtle.jpg)
 
 If you want to fold this, the crease pattern is below.
 
