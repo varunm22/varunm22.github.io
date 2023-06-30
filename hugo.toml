@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Varun Mangalick'
-theme = "PaperModX"
+theme = "PaperModX_varun"
 sectionPagesMenu = 'main'
