@@ -20,4 +20,4 @@ Another favorite is Propaganda Poster of a Plush Dino. I hadn't actually done an
 
 ![Propaganda poster of a plush dino painting](/painting/propaganda_dino.jpg)
 
-COMING SOON: I'm going to try to make an interactive version of the paint wall where you can hover over indiviaul paintings and see a blown up image + artist creds. I'll likely publish this as a separate post!
+COMING SOON: I'm going to try to make an interactive version of the paint wall where you can hover over individual paintings and see a blown up image + artist creds. I'll likely publish this as a separate post!
