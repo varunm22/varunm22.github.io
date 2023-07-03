@@ -1,6 +1,9 @@
 ---
 title: "Writing: Sample Output"
 date: 2022-03-21T19:55:44-04:00
+cover:
+    image: /writing/terminal.png
+    hidden: true
 ---
 
 This is a very short story I wrote inspired by generative AI for language. I wrote it before ChatGPT made this into a household topic, but I still am happy with how I constructed the story.
@@ -29,8 +32,4 @@ I pour my coffee and open up my computer to check if my last training job has fi
 
 ---
 
-    > head -n 5 sample_output.txt
-    As I wake, I like to think of my mind as a computer booting up. My consciousness comes online as system checks complete...
-    My research is on machine learning for generative text models. This entails creating and training neural networks which can produce text 
-    ...
-    > 
+![Sample terminal output](/writing/terminal.png)

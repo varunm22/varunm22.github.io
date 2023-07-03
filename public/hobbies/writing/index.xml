@@ -13,8 +13,13 @@
       <pubDate>Thu, 07 Jul 2022 13:42:16 -0400</pubDate>
       
       <guid>http://example.org/hobbies/writing/post-4-island-turtles/</guid>
-      <description>This story is more at the boundary of a short story and a novella, at a little over 15000 words. I wanted to play with worldbuilding a bit and create a society with a unique lifestyle based on their situation, but I won&amp;rsquo;t say more for now. Each chapter is in its own post below:</description>
-      <content:encoded><![CDATA[<p>This story is more at the boundary of a short story and a novella, at a little over 15000 words. I wanted to play with worldbuilding a bit and create a society with a unique lifestyle based on their situation, but I won&rsquo;t say more for now. Each chapter is in its own post below:</p>
+      <description>This story is more at the boundary of a short story and a novella, at a little over 15000 words. I wanted to play with worldbuilding a bit and create a society with a unique lifestyle based on their situation, but I won&amp;rsquo;t say more for now.
+Read Chapter 1
+Read Author Commentary</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/writing/ocean.jpg" type="" alt=""  /></p>
+<p>This story is more at the boundary of a short story and a novella, at a little over 15000 words. I wanted to play with worldbuilding a bit and create a society with a unique lifestyle based on their situation, but I won&rsquo;t say more for now.</p>
+<p><a href="http://example.org/hobbies/writing/post-4-island-turtles/chapter-1-the-island/">Read Chapter 1</a></p>
+<p><a href="http://example.org/hobbies/writing/post-4-island-turtles/commentary/">Read Author Commentary</a></p>
 ]]></content:encoded>
     </item>
     
@@ -40,12 +45,7 @@ My research is on machine learning for generative text models.</description>
 <p>If an AI raised on social media turns into a hateful extremist, then I must think carefully about what I use to teach my AI. The obvious choices include classical literature, textbooks on all subjects, and a minimal curation of web content, a selection equally fit for teaching a child. But if I were to raise a child, I wouldn’t stop there; I’d also want to teach them to be excited about what excites me. I’d want them to construct nonsensical metaphors about computer science and reference just enough philosophy to support the point they’re trying to make. I’d want them to think deeply about what science that came before them and curious about how they could contribute to it. And so, I add my papers, my technical blogs, and even my journaled philosophical ramblings to the set of training materials.</p>
 <p>I pour my coffee and open up my computer to check if my last training job has finished. Seeing that it has, I start to skim through the most recent sample output text.</p>
 <hr>
-<pre><code>&gt; head -n 5 sample_output.txt
-As I wake, I like to think of my mind as a computer booting up. My consciousness comes online as system checks complete...
-My research is on machine learning for generative text models. This entails creating and training neural networks which can produce text 
-...
-&gt; 
-</code></pre>
+<p><img loading="lazy" src="/writing/terminal.png" type="" alt="Sample terminal output"  /></p>
 ]]></content:encoded>
     </item>
     
@@ -56,7 +56,8 @@ My research is on machine learning for generative text models. This entails crea
       
       <guid>http://example.org/hobbies/writing/post-2-novel/</guid>
       <description>In sixth grade, we had an assignment to write something that might have been a short story, might have been a medium length story, or might have been the start of the novel. I honestly don&amp;rsquo;t remember, but I do remember that I resolved to expand mine into a full novel. I had never really had a long attention span for my projects, so this was a huge change of pace.</description>
-      <content:encoded><![CDATA[<p>In sixth grade, we had an assignment to write something that might have been a short story, might have been a medium length story, or might have been the start of the novel. I honestly don&rsquo;t remember, but I do remember that I resolved to expand mine into a full novel. I had never really had a long attention span for my projects, so this was a huge change of pace.</p>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/writing/novel.png" type="" alt="Word count of novel"  /></p>
+<p>In sixth grade, we had an assignment to write something that might have been a short story, might have been a medium length story, or might have been the start of the novel. I honestly don&rsquo;t remember, but I do remember that I resolved to expand mine into a full novel. I had never really had a long attention span for my projects, so this was a huge change of pace.</p>
 <p>I finished majority of the novel through middle school, but eventually forgot about it until later in high school when I felt I should probably revisit and finish this novel. Early in my senior year, I finally self-published a somewhat edited version of my book: Journey to Imalum.</p>
 <p>The final product was not amazing, and had a wide assortment of writing styles stretching from 6th grade me to 11th grade me, but I was proud that I finished all ~78000 words of it. Thankfully, Amazon self-publishing doesn&rsquo;t have any screening process, so for a period of time, my book was available to purchase there. I&rsquo;m not sure when it was taken down, but it is no longer available to purchase at this time. If you are curious, here&rsquo;s a <a href="https://docs.google.com/document/d/1UeVr-HzuX8bm56iwCeA0nBZVCwZDK33lfM_Sfvb5tnw/edit?usp=sharing">read-only Google doc</a>.</p>
 ]]></content:encoded>
@@ -64,12 +65,13 @@ My research is on machine learning for generative text models. This entails crea
     
     <item>
       <title>Writing: The Caterpillar</title>
-      <link>http://example.org/hobbies/writing/post-1-caterpillar/</link>
+      <link>http://example.org/hobbies/writing/post-1-the-caterpillar/</link>
       <pubDate>Mon, 12 Aug 2013 10:13:24 -0400</pubDate>
       
-      <guid>http://example.org/hobbies/writing/post-1-caterpillar/</guid>
+      <guid>http://example.org/hobbies/writing/post-1-the-caterpillar/</guid>
       <description>The Caterpillar (misspelled catterpillar) was my first &amp;ldquo;long&amp;rdquo; story (~1800 words). I wrote this in kindergarten on the sheets of half-lined paper they gave us so that I could use the top half of the sheets to draw pictures. You will notice a motif of the protagonist defeating enemies and capturing them to join his side. I believe this was inspired by my first exposure to Pokemon around this time of my life.</description>
-      <content:encoded><![CDATA[<p>The Caterpillar (misspelled catterpillar) was my first &ldquo;long&rdquo; story (~1800 words). I wrote this in kindergarten on the sheets of half-lined paper they gave us so that I could use the top half of the sheets to draw pictures. You will notice a motif of the protagonist defeating enemies and capturing them to join his side. I believe this was inspired by my first exposure to Pokemon around this time of my life.</p>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/writing/caterpillar-cover.jpg" type="" alt="Hand drawn cover art of the caterpillar"  /></p>
+<p>The Caterpillar (misspelled catterpillar) was my first &ldquo;long&rdquo; story (~1800 words). I wrote this in kindergarten on the sheets of half-lined paper they gave us so that I could use the top half of the sheets to draw pictures. You will notice a motif of the protagonist defeating enemies and capturing them to join his side. I believe this was inspired by my first exposure to Pokemon around this time of my life.</p>
 <p>If you want to read it in its full glory, a scanned pdf is available <a href="/writing/the-caterpillar.pdf">here</a>. If you have trouble reading my poorly spelled cursive, then the full text is copied below (typos and all). PDF page numbers are provided at rough &ldquo;chapter&rdquo; boundaries in case you want to follow along with the illustrations in the PDF.</p>
 <h2 id="the-catterpillar">The Catterpillar</h2>
 <h4 id="page-1">Page 1</h4>

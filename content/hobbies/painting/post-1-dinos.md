@@ -3,8 +3,10 @@ title: "Painting: a series of dinosaurs"
 date: 2016-08-22T21:19:59-04:00
 cover:
   image: /painting/dinos.jpg
-  alt: "Six paintings of dinos"
+  hidden: true
 ---
+
+![Six paintings of dinos](/painting/dinos.jpg)
 
 During my college freshman summer when I was doing my first internship. I bought paints to have something to do after work, as this was the first time in my life I didn't have homework. This summer, I painted several simple dinosaur paintings!
 

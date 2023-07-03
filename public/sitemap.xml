@@ -20,6 +20,9 @@
     <loc>http://example.org/hobbies/writing/post-4-island-turtles/</loc>
     <lastmod>2022-07-07T13:42:16-04:00</lastmod>
   </url><url>
+    <loc>http://example.org/hobbies/writing/post-4-island-turtles/commentary/</loc>
+    <lastmod>2022-06-16T18:36:57-04:00</lastmod>
+  </url><url>
     <loc>http://example.org/hobbies/writing/post-4-island-turtles/chapter-6-departure/</loc>
     <lastmod>2022-06-15T23:15:41-04:00</lastmod>
   </url><url>
@@ -62,7 +65,7 @@
     <loc>http://example.org/hobbies/writing/post-2-novel/</loc>
     <lastmod>2014-10-27T21:50:21-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/hobbies/writing/post-1-caterpillar/</loc>
+    <loc>http://example.org/hobbies/writing/post-1-the-caterpillar/</loc>
     <lastmod>2013-08-12T10:13:24-04:00</lastmod>
   </url><url>
     <loc>http://example.org/categories/</loc>

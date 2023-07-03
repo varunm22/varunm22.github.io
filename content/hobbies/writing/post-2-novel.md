@@ -3,8 +3,10 @@ title: "Writing: Journey to Imalum"
 date: 2014-10-27T21:50:21-04:00
 cover:
   image: /writing/novel.png
-  alt: "Word count of novel"
+  hidden: true
 ---
+
+![Word count of novel](/writing/novel.png)
 
 In sixth grade, we had an assignment to write something that might have been a short story, might have been a medium length story, or might have been the start of the novel. I honestly don't remember, but I do remember that I resolved to expand mine into a full novel. I had never really had a long attention span for my projects, so this was a huge change of pace.
 

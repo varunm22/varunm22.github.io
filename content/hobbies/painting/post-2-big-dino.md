@@ -3,8 +3,10 @@ title: "Painting: a dinosaur through the eye of Chuck Close"
 date: 2018-05-25T11:23:01-04:00
 cover:
   image: /painting/big_dino.jpg
-  alt: "The big dinosaur painting"
+  hidden: true
 ---
+
+![The big dinosaur painting](/painting/big_dino.jpg)
 
 At the start of my college junior summer, I painted what is still probably my single favorite thing I've painted. I was staying with my aunt for a couple days before starting my internship, and I took the opportunity to paint with my artist cousin Sonika didi. She's absolutely fantastic and paints pieces for galleries while also working in art education. See her pieces [here](https://www.instagram.com/sonikart13/)!
 

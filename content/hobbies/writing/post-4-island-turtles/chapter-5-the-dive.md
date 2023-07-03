@@ -100,3 +100,5 @@ Jun watched Elys look pleadingly at Alcar. Across the crowd, similar conversatio
 They approached the edge and began to distribute rafts when someone shouted, pointing out at the water. Jun looked up and saw a subtle swell form on the ocean’s surface. Then, the island’s head broke the surface, its body accelerating upwards to follow it. The island rose higher out of the water than Jun would have imagined possible, streams of white agitated water rushing from every crevice back into the ocean. Right as the island hit the peak of its rise, it accelerated downwards, the whole motion reminding Jun of a bobbing piece of wood surfacing after being held underwater. 
 
 The island’s sudden rise and crash churned the ocean to a froth. As Jun watched, a swell rushed away from the surfaced island in all directions. As it approached Che’el, it grew. Jun’s feet felt cemented to the surface, though the men and women around him had begun to flee. The wave grew, now tall enough to cover the sky, and in the last moment before it hit, Alcar took Jun’s arm and held him close.
+
+[Read Chapter 6]({{< ref "/hobbies/writing/post-4-island-turtles/chapter-6-departure" >}})

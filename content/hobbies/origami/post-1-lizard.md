@@ -3,11 +3,12 @@ title: "Origami design: simple lizard"
 date: 2021-10-22T20:30:46-04:00
 cover:
   image: /origami/lizard.jpg
-  alt: "My first origami design - the simple lizard"
-  caption: "My first origami design - the simple lizard"
+  hidden: true
 ---
 
-If you want to fold this, the crease pattern is below.
+![My first origami design - the simple lizard](/origami/lizard.jpg)
+
+The simple lizard was my first origami design! If you want to fold this, the crease pattern is below.
 
 ![Origami lizard crease pattern](/origami/lizard_pattern.png)
 

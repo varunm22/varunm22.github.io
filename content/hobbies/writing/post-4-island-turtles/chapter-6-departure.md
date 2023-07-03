@@ -100,3 +100,9 @@ The next day, they continued to build up shelters and lay down farming soil. By 
 As the first light rose over the water, Jun rubbed the sleep from his eyes, and as he looked around, his breath caught in his throat. The Archipelago was gone. He saw Karu sitting and staring out to the ocean behind them. "I guess there's no turning back now," Jun said.
 
 "No, I guess not."
+
+***
+
+[Read author commentary]({{< ref "/hobbies/writing/post-4-island-turtles/commentary" >}})
+
+[Back to story home page]({{< ref "/hobbies/writing/post-4-island-turtles" >}})

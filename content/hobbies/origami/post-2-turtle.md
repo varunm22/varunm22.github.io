@@ -3,11 +3,12 @@ title: "Origami design: baby sea turtle"
 date: 2021-11-06T15:46:49-04:00
 cover:
   image: /origami/turtle.jpg
-  alt: "My first origami design - the baby sea turtle"
-  caption: "My first origami design - the baby sea turtle"
+  hidden: true
 ---
 
-If you want to fold this, the crease pattern is below.
+![My second origami design - the baby sea turtle](/origami/turtle.jpg)
+
+The baby sea turtle was my second origami design. If you want to fold this, the crease pattern is below.
 
 ![Origami turtle crease pattern](/origami/turtle_pattern.png)
 

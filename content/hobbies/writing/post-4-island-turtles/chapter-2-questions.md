@@ -86,3 +86,5 @@ Seeing Jun’s agitation, Lira elbowed him again, but more gently than before. �
 In the haze of twilight, Jun suddenly noticed a thin dark line appear far in the distance. He turned to tell Lira, but it was clear she had noticed as well. Jun guessed it was another island; Che’el had passed within viewing distance of other islands several times that Jun remembered, but never near enough for the people of Che’el to interact with the people of the other islands. 
 
 As they continued to drift towards the mass, it appeared to rise up and out of the sea, taller and more pointed than any island could be. Jun’s suspicions grew, and he turned to scramble back onto the shell, trailing after Lira. They came up to a group of villagers, adults and children, all looking to the horizon. Jun noticed a glint of excitement in the eyes of the adults, but the other children seemed as confused as he felt. Lira’s father Bors took her hand as he grinned then announced, “We’re headed for the Archipelago!”
+
+[Read Chapter 3]({{< ref "/hobbies/writing/post-4-island-turtles/chapter-3-the-archipelago" >}})

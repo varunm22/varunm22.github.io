@@ -134,3 +134,5 @@ Suddenly, it all made sense to Jun. The keratin plates he had read and copied ha
 Seeing Jun’s rising excitement, Elys broke into the conversation. “Now just remember, those historians will hop islands as long as they need to so they can stay on the Archipelago, but you make sure you come home.”
 
 Jun nodded quickly. Of course he would never leave Che’el. He could never abandon his parents, Lira, or even baby Jora, who was already looking so much bigger than when they first arrived. That just reminded him of how much more he had to read and learn in the uncertain span of time he had left.
+
+[Read Chapter 4]({{< ref "/hobbies/writing/post-4-island-turtles/chapter-4-the-erosion" >}})
