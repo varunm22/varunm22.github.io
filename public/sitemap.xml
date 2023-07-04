@@ -56,6 +56,18 @@
     <loc>http://example.org/hobbies/origami/post-1-lizard/</loc>
     <lastmod>2021-10-22T20:30:46-04:00</lastmod>
   </url><url>
+    <loc>http://example.org/hobbies/snow/</loc>
+    <lastmod>2021-01-14T11:43:52-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/hobbies/snow/post-2-cube/</loc>
+    <lastmod>2021-01-14T11:43:52-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/hobbies/snow/post-1-dino/</loc>
+    <lastmod>2020-04-12T18:23:32-04:00</lastmod>
+  </url><url>
+    <loc>http://example.org/hobbies/snow/post-3-rose/</loc>
+    <lastmod>2020-04-12T18:23:32-04:00</lastmod>
+  </url><url>
     <loc>http://example.org/hobbies/painting/post-2-big-dino/</loc>
     <lastmod>2018-05-25T11:23:01-04:00</lastmod>
   </url><url>

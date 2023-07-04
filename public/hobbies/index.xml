@@ -51,5 +51,16 @@ I revisited this hobby during the covid lockdown, and ended up being sucked into
 ]]></content:encoded>
     </item>
     
+    <item>
+      <title>Snow Sculpture</title>
+      <link>http://example.org/hobbies/snow/</link>
+      <pubDate>Thu, 14 Jan 2021 11:43:52 -0400</pubDate>
+      
+      <guid>http://example.org/hobbies/snow/</guid>
+      <description>In March 2020, I came home to Minnesota at the start of Covid lockdowns. In early April, we had a typical large MN snowfall, and for the first time, I found myself with both the free time of youth as well as the engineering knowledge I had gained. It was time to make things out of snow. I only had the one big batch of snow to work with that winter, but I resumed my work the following year.</description>
+      <content:encoded><![CDATA[<p>In March 2020, I came home to Minnesota at the start of Covid lockdowns. In early April, we had a typical large MN snowfall, and for the first time, I found myself with both the free time of youth as well as the engineering knowledge I had gained. It was time to make things out of snow. I only had the one big batch of snow to work with that winter, but I resumed my work the following year.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>

@@ -102,3 +102,5 @@ They approached the edge and began to distribute rafts when someone shouted, poi
 The island’s sudden rise and crash churned the ocean to a froth. As Jun watched, a swell rushed away from the surfaced island in all directions. As it approached Che’el, it grew. Jun’s feet felt cemented to the surface, though the men and women around him had begun to flee. The wave grew, now tall enough to cover the sky, and in the last moment before it hit, Alcar took Jun’s arm and held him close.
 
 [Read Chapter 6]({{< ref "/hobbies/writing/post-4-island-turtles/chapter-6-departure" >}})
+
+[Back to Afloat home]({{< ref "/hobbies/writing/post-4-island-turtles" >}})

@@ -70,3 +70,5 @@ Jun nodded, and she laughed as she stood up. “I have to take care of Jora, but
 Jun nodded and wished her good night. By this point, the sky was fully dark, and Jun started preparing to sleep. Once he laid down, he found a bare spot on Che’el, closed his eyes, and pressed his ear to the surface. After a few deep breaths, he heard it. Dadum. He stayed still and continued to breathe. Eight, nine, then ten deep breaths later, there it was again. Dadum. No matter how fascinated Jun was with the rest of the ocean’s life, nothing matched his curiosity and wonder for Che’el. Every night, he fell asleep to a reminder that he owed the ground he walked upon and the food he ate to an enormous creature he knew so little about.
 
 [Read Chapter 2]({{< ref "/hobbies/writing/post-4-island-turtles/chapter-2-questions" >}})
+
+[Back to Afloat home]({{< ref "/hobbies/writing/post-4-island-turtles" >}})

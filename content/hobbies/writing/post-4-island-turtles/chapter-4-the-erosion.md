@@ -97,3 +97,5 @@ Jun thought for a moment. “What if you figured out the cause of the Erosion an
 “I doubt it,” Karu replied. “Like the islands, we return our waste to the ocean, and like the islands, we fertilize new life to compensate for what we take. This is different. It is as if God has reached down to reclaim his gift of creation for himself.”
 
 [Read Chapter 5]({{< ref "/hobbies/writing/post-4-island-turtles/chapter-5-the-dive" >}})
+
+[Back to Afloat home]({{< ref "/hobbies/writing/post-4-island-turtles" >}})
