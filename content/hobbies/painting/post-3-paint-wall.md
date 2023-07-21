@@ -4,10 +4,11 @@ date: 2023-01-24T20:16:25-04:00
 cover:
   image: /painting/paint_wall.jpg
   hidden: true
-featured: true
 ---
 
 ![A whole wall of paintings](/painting/paint_wall.jpg)
+
+[See interactive version here!]({{< ref "/projects/interactive-paint-wall" >}})
 
 In January 2022, one of my cousins gave me some extra paints her kids weren't using, which ended up spawning 15+ paint nights over the course of over a year. Things slowed down a bit in 2023, but even so, these paintings formed a giant mosiac paint wall in the living room of my apartment.
 

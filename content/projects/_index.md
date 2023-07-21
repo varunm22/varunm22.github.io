@@ -2,6 +2,4 @@
 title: "Technical Projects"
 ---
 
-UNDER CONSTRUCTION
-
-Technical projects page
+This page has a variety of small technical projects I've worked on!
