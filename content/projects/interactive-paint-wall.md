@@ -7,3 +7,5 @@ cover:
 featured: true
 externallink: "https://varunm22.github.io/paint-wall"
 ---
+
+![](/projects/paint_wall.jpg)
