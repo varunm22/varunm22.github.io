@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'Varun Mangalick'
 theme = "PaperModX_varun"
 sectionPagesMenu = 'main'
+[params]
+  mainSections = ['hobbies', 'projects', 'travel']
+  ShowBreadCrumbs = true
