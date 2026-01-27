@@ -1,6 +1,5 @@
 ---
 title: "Snow sculpture: rose"
-# TODO fix date
 date: 2021-02-06T18:23:32-04:00
 cover:
   image: /snow/rose.jpg
