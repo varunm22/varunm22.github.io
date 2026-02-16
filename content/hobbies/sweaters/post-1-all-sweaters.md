@@ -4,6 +4,7 @@ date: 2023-09-18T11:31:33-04:00
 cover:
   image: /sweaters/all.jpg
   hidden: true
+featured: true
 ---
 
 ![Sweater collection](/sweaters/all.jpg)

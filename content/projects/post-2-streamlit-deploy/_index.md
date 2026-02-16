@@ -4,7 +4,7 @@ date: 2024-01-12T23:44:52-04:00
 cover:
   image: /streamlit/first_app.png
   hidden: true
-featured: true
+featured: false
 ---
 
 This tutorial takes you through the creation of a secure and automated streamlit deployment with infrastructure set up to run batch jobs with custom docker images and view results.
